@@ -2,7 +2,13 @@
 
 ```shell
 npm install -g windows-build-tools # Windows only
-npm install cyclone cyclone-leapmotion
+npm install # from package.json
+```
+Used packages: cyclon, cyclon-leapmotion, lodash
+
+# Finger commands
+```
+node finger-commands.js
 ```
 
 # Docs
